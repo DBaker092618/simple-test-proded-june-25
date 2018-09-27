@@ -1,2 +1,3 @@
 # simple-test-proded-june-25
 Simple test of GitHub skillz. Please add a little something to this readme. You can write anything you like. Anything!
+Learning about GitHub for this test has allowed me to use a skill the IT folks at Bedford/St. Martin's got me started developing: If you need a quick walkthrough for a program or site you're not familiar with (or want to learn what others have done with your software difficulty), Google the situation in more tightly worded terms to work out your answer. If the problem's solution isn't well known, share the information with colleagues, sending along your best tips and citing your authorities, and asking if they could contribute their own store of knowledge and experience to make this a useful source. 
